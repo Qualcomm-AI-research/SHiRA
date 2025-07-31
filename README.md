@@ -4,6 +4,8 @@ Sparse High Rank Adapters or SHiRA is an alternate type of adapter and has been 
 
 The code for SHiRA is now included in the official [PEFT Library](https://huggingface.co/docs/peft/main/en/package_reference/shira). An example to run SHiRA is present at [PEFT Github](https://github.com/huggingface/peft/tree/main/examples/shira_finetuning).
 
+![SHiRA Summary](SHiRA_Summary_Figure.png)
+
 If you find our work useful, please consider citing our work:
 ```
 @inproceedings{bhardwaj2024sparse,
